@@ -1,10 +1,10 @@
 # Site settings
-title: Hux Blog
-SEOTitle: Enuyasia的博客 | Hux Blog
+title: Enuyasia's Blog
+SEOTitle: Enuyasia的博客 | Enuyasia's Blog
 header-img: img/home-bg.jpg
 email: 1145141919810asmr@gmail.com
 description: "这里是 @Enuyasia 的个人博客，记录生活学习日常，不定时写点随笔"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+keyword: "Enuysaia"
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
