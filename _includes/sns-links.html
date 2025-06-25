@@ -18,12 +18,32 @@
     </a>
   </li>
   {% endif %}
-  {% if site.twitter_username %}
+    {% if site.twitter_username %}
   <li>
     <a href="https://twitter.com/{{ site.twitter_username }}">
       <span class="fa-stack fa-lg">
         <i class="fa fa-circle fa-stack-2x"></i>
         <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+  {% if site.bilibili_username %}
+  <li>
+    <a href="https://bilibili.com/{{ site.twitter_username }}">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-bilibili fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+    {% if site.steam_username %}
+  <li>
+    <a href="https://steamcommunity.com/{{ site.twitter_username }}">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-steam fa-stack-1x fa-inverse"></i>
       </span>
     </a>
   </li>
