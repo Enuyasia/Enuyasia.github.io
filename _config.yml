@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: SpikerJet
+weibo_username: 7388912316
 github_username: Enuyasia
-bilibili_username:  Enuyasia
-steam_username: 憂鬱的臺灣烏龜
+bilibili_username:  413010268
+steam_username: 76561199047262540
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
