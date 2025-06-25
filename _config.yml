@@ -5,7 +5,7 @@ header-img: img/WITCH%20ON%20THE%20HOLY%20NIGHT%20(%20ver%201.1%20)%202024_10_18
 email: 1145141919810asmr@gmail.com
 description: "这里是 @Enuyasia 的个人博客，记录生活学习日常，不定时写点随笔"
 keyword: "Enuysaia"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://enuyasia.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,12 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+weibo_username: 7388912316
+github_username: Enuyasia
+bilibili_username:  413010268
+steam_username: 76561199047262540
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -59,7 +57,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: https-enuyasia-github-io
 
 # Netease settings
 netease_comment: false
@@ -74,7 +72,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "这就是我"
+sidebar-about-description: "本人照片"
 sidebar-avatar: /img/月姫(￣▽￣) 2024_9_29 23_34_12.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -86,17 +84,11 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 # MathJax rendering for layout:page (e.g. post preview)
-page-mathjax: false
+page-mathjax: true
 
 # Friends
-friends:
-  [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
-  ]
+# friends:
+# [
+#   { title: "乱序（Midare）", href: "http://mida.re/" },
+    
+#  ]
