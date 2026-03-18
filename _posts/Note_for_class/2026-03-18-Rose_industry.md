@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: "企业战略01"
+subtitle: "Global Value Chain in the Rose Industry"
+author: "Enuyasia"
+header-style: text
+hidden: false
+tags:
+  - 笔记
+  - 复习用
+---
 
 # 一、核心主题（Core Idea）
 
