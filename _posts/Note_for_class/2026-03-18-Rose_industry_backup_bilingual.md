@@ -6,8 +6,8 @@ author: "Enuyasia"
 header-style: text
 hidden: false
 tags:
-  - 笔记 | Notes
-  - 复习用 | For Review
+  - 笔记
+  - 复习用
 ---
 
 # 一、核心主题（Core Idea）
