@@ -1,4 +1,4 @@
-"---
+---
 layout: post
 title: "企业战略01 | Corporate Strategy 01"
 subtitle: "Global Value Chain in the Rose Industry | 玫瑰产业的全球价值链"
@@ -9,7 +9,7 @@ tags:
   - 笔记 | Notes
   - 复习用 | For Review
 ---
----
+
 # 一、核心主题（Core Idea）
 
 **中文：**
