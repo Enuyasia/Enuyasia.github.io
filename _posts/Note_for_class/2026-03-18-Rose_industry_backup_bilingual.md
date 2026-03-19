@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "企业战略01 | Corporate Strategy 01"
-subtitle: "Global Value Chain in the Rose Industry | 玫瑰产业的全球价值链"
+title: "企业战略01"
+subtitle: "Global Value Chain in the Rose Industry"
 author: "Enuyasia"
 header-style: text
 hidden: false
@@ -221,11 +221,3 @@ The rose industry illustrates a classic global value chain where value creation 
 
 **中：**
 玫瑰产业体现了典型的全球价值链结构，价值创造分散，但价值获取集中在上游育种商和下游零售商，企业应向高附加值环节靠近。
-
----
-
-如果你要，我可以帮你继续做👇 | If you need, I can help you continue with👇
-
-* 写 **case analysis（完整作业版）** | Write **case analysis (complete homework version)**
-* 给 Emma 做 **SWOT / 五力分析 / 战略建议** | Do **SWOT / Five Forces Analysis / Strategic Recommendations** for Emma
-* 或直接帮你写一份 **presentation PPT（全英文）** | Or directly help you write a **presentation PPT (full English)**"
