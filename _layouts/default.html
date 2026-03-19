@@ -18,6 +18,15 @@
 <img src="/img/lam.jpg" width="0" height="0" />
 <!-- Migrate from head to bottom, no longer block render and still work -->
 <script src="/js/archive.js"></script>
+    <script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']] // 确保这里包含了 \[
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </body>
 
 </html>
