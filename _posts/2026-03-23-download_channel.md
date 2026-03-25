@@ -1,6 +1,6 @@
 ---
 title: "资源下载站"
-subtitle: "提供百度/迅雷网盘下载链接"
+subtitle: "提供下载链接"
 layout: post
 author: "Enuyasia"
 header-style: text
@@ -12,13 +12,12 @@ tags:
 
 <div align = center>
 
-# 网络资源集散中心
+# 资源集散中心
 
 </div>
 
-**该下载中心仅提供网盘链接，点击下载txt文档。**
 
 ---
+[Investment management 课程文件](/downloads/Investment_Management%20-%20Formula%20Sheet.pdf)
 
----
 
